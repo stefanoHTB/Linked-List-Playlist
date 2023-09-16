@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/stefanovitteri/Desktop/asp.net/web-app-first/web-app-first/web-app-first.csproj": {}
+  },
+  "projects": {
+    "/Users/stefanovitteri/Desktop/asp.net/web-app-first/web-app-first/web-app-first.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/stefanovitteri/Desktop/asp.net/web-app-first/web-app-first/web-app-first.csproj",
+        "projectName": "web-app-first",
+        "projectPath": "/Users/stefanovitteri/Desktop/asp.net/web-app-first/web-app-first/web-app-first.csproj",
+        "packagesPath": "/Users/stefanovitteri/.nuget/packages/",
+        "outputPath": "/Users/stefanovitteri/Desktop/asp.net/web-app-first/web-app-first/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/stefanovitteri/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "/usr/local/share/dotnet/sdk/7.0.304/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
